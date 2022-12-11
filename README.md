@@ -25,6 +25,6 @@
 
 ----------------------------------------------------------------
 
-The tools I post are for educational purposes only.
+The free tools I post are for educational purposes only.
 
 The tools must not be sold or modified and then published online without my agreement.
