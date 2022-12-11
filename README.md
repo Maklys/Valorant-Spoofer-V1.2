@@ -1,15 +1,17 @@
 <h1 align="center">Hi 👋, I'm Maklys</h1>
 <h3 align="center">A passionate frontend developer from Swiden</h3>
 
-- 🔭 I’m currently working on **Valorant**
+- 🔭 I’m currently working on :
 
-- 🌱 + **Overwatch**
+- 📫 + **Valorant**
 
-- 👯 + **Fortnite**
+- 📫 + **Overwatch**
 
-- 🤝 + **Rust**
+- 📫 + **Fortnite**
 
-- 💬 + **RAINBOW6**
+- 📫 + **Rust**
+
+- 📫 + **RAINBOW6**
 
 - 📫 + **MW2/WZ**
 
